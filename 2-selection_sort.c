@@ -3,7 +3,8 @@
 #include "sort.h"
 /**
  * selection_sort - a function that sorts an array of integers in ascending order using the Selection sort algorithm
- * @array: print after each time you swap two elements
+ * @array: array of integers
+ * @size: size of the array
  *
  * return: Always 0
  */
